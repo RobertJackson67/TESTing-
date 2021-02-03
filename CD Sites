@@ -1,0 +1,7 @@
+CD SITES:
+DEV
+http://cd.edc.hosts.testnetwork/
+PPROD
+http://cd.edc.hosts.pprodnetwork/
+PROD
+http://cd.hosts.network/
